@@ -11,6 +11,7 @@ source $ZSH/oh-my-zsh.sh
 alias top="bpytop"
 alias ls="lsd"
 alias lg="lazygit"
+alias nf="neofetch"
 
 # ========================
 # ======= Keybinds =======
