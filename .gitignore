@@ -23,3 +23,12 @@ nautilus
 turborepo
 nextjs-nodejs
 gnome-session
+
+# nvim stuff
+tags
+test.sh
+.luarc.json
+
+spell/
+lazy-lock.json
+
