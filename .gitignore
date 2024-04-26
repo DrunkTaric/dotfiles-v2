@@ -6,6 +6,7 @@ xdg-terminals.list
 user-dirs.dirs
 user-dirs.locale
 .gsd-keyboard.settings-ported
+dleyna-server-service.conf
 
 # Folders
 
@@ -25,6 +26,8 @@ nextjs-nodejs
 gnome-session
 create-next-app-nodejs
 libreoffice
+BraveSoftware/
+totem/
 
 # nvim stuff
 tags
