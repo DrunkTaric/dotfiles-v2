@@ -1,4 +1,14 @@
 export ZSH="$HOME/.oh-my-zsh"
+export DENO_INSTALL="/home/comborush/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
+
+## pyenv configs
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+## thefuck
+eval $(thefuck --alias)
 
 ZSH_THEME="robbyrussell"
 
