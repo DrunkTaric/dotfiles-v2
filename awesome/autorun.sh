@@ -40,4 +40,4 @@ run blueman-applet
 run msm_notifier
 run picom
 run feh --bg-scale ~/Downloads/background.png
-flatpak run com.discordapp.Discord &
+flatpak run de.shorsh.discord-screenaudio &
